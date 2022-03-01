@@ -1,0 +1,83 @@
+.topbar-profile-photo{
+    width: 1.5em;
+    height: 1.5em;
+    position: relative;
+}
+
+.link-menu{
+    color: black;
+}
+
+.story-profile-photo{
+    width: 56px;
+    height: 56px;
+    position: relative;
+    border-width: 2px !important;
+}
+
+.post-profile-photo{
+    width: 46px;
+    height: 46px;
+    position: relative;
+    border-width: 2px !important;
+}
+
+.btn-post{
+    right: 0;
+    bottom: 0;
+    top: 0;
+
+    background-color: transparent;
+    border: 0;
+    color: #007bff;
+    font-weight: 600;
+}
+
+.btn-post:hover,
+.btn-post:focus{
+    background-color: transparent;
+    color: #007bff !important;
+}
+
+.comment-box{
+    border-top: 1px solid lightgray;
+}
+
+.side-profile-photo{
+    width: 56px;
+    height: 56px;
+    position: relative;
+}
+
+.profile-info-username{
+    display: block;
+    font-weight: 700;
+}
+
+.profile-info-name{
+    font-size: 12px;
+}
+
+.suggest-profile-photo{
+    width: 46px;
+    height: 46px;
+    position: relative;
+    border-width: 2px !important;
+}
+
+.btn-suggest-follow{
+    right: 0;
+    bottom: 0;
+    top: 0;
+
+    background-color: transparent;
+    border: 0;
+    color: #007bff;
+    font-weight: 600;
+}
+
+.btn-suggest-follow:hover,
+.btn-suggest-follow:focus{
+    background-color: transparent;
+    color: #007bff !important;
+}
